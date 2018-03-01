@@ -1,7 +1,7 @@
 {
     "name": "mongomart",
     "version": "0.1.0",
-    "description": "Ecommerce app Using the MongoDB driver and Express",
+    "description": "E-commerce app using the MongoDB driver and Express",
     "main": "app.js",
     "dependencies": {
         "express": "~4.13.3",
@@ -10,6 +10,6 @@
         "nunjucks": "~2.2.0",
         "nunjucks-date": "~1.2.0"
     },
-    "author": "Shannon Bradshaw",
+    "author": "",
     "license": "0BSD"
 }
