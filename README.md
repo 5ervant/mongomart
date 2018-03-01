@@ -1,8 +1,8 @@
 A good sample of e-commerce site, backed by MongoDB.
-5ervant's implementation of the final exam/project for "M101JS: MongoDB for Node.js Developers".
+  5ervant's implementation of the final exam/project for "M101JS: MongoDB for Node.js Developers".
 
 You can get this MongoMart application up and running with the following:
-*(It doesn't do much (yet), but you should be able to run it and experiment with the UI.)*
+  *(It doesn't do much (yet), but you should be able to run it and experiment with the UI.)*
 
  - Checkout this repo, or download the .zip file and extract the zip file's contents.
  - Install the dependencies.
