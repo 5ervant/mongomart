@@ -1,4 +1,4 @@
-A sample e-commerce site, backed by MongoDB.
+A good sample of e-commerce site, backed by MongoDB.
 5ervant's implementation of the final exam/project for "M101JS: MongoDB for Node.js Developers".
 
 You can get this MongoMart application up and running with the following:
